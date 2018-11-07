@@ -1,5 +1,14 @@
-nav_items: 
-  - {label: 'Home', path: '/'}
-  - {label: 'Products', path: '/products/'}
-  - {label: 'News', path: '/news'}
-
+nav_items:
+  - label: Mistress Lady Alana
+    path: /auckland_dominatrix
+  - label: Professional Services
+    path: /pro_domme
+  - label: Etiquette and Manners
+    path: /etiquette
+  - label: Training Programmes
+  - label: Galleries
+    path: gallery
+  - label: FAQS
+    path: /faqs
+  - label: Contact
+    path: contact
